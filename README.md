@@ -9,11 +9,13 @@ Duration:july to August
 Mentor:
 
 **Project**: SIMPLE CALCULATOR
+
 **Objective of the project :**
 
 The objective of a simple calculator project in Java is to create a basic application that can perform arithmetic operations such as addition, subtraction, multiplication, and division. This project helps in understanding the fundamentals of Java programming, including user input handling, basic arithmetic operations, and GUI (Graphical User Interface) development if a graphical calculator is desired.
 
 **Key Activities**
+
 Define Requirements and Design:
 
 Decide on the features of the calculator (e.g., basic operations like addition, subtraction, multiplication, division).
