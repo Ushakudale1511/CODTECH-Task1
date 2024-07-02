@@ -1,7 +1,11 @@
 Name: Usha Kudale
+
 Company: CODTECH IT SOLUTION
+
 ID:CT08DS3714
+
 Duration:july to August
+
 Mentor:
 
 **Project**: SIMPLE CALCULATOR
